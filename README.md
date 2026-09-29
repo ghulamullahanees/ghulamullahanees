@@ -70,6 +70,19 @@ An AI-assisted study and note-taking app with PDF workflows, page-specific notes
 **Technologies:** .NET 8 · ASP.NET Core Web API · SQL Server · Entity Framework Core · HTML · CSS · JavaScript  
 **Repository:** [github.com/ghulamullahanees/ghulamnote](https://github.com/ghulamullahanees/ghulamnote)
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ghulamullahanees&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;hide_border=true" alt="GitHub profile stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ghulamullahanees&amp;layout=compact&amp;hide_border=true" alt="Most used public repository languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghulamullahanees&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views counter" />
+</p>
+
+*Stats and language cards use public-repository data. Profile views count page hits, not unique visitors.*
+
 ## Current Focus
 
 Building reliable .NET applications, improving business processes, and creating useful software experiences for organizations and their customers.
