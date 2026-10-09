@@ -1,33 +1,43 @@
 <div align="center">
 
+  <!-- ================================================================= -->
   <!-- 1. DYNAMIC CYBER NEON WAVING HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=230&section=header&text=GHULAM%20ULLAH&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20✨&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
+  <!-- ================================================================= -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=240&section=header&text=GHULAM%20ULLAH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🚀%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20🚀&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
 
+  <!-- ================================================================= -->
   <!-- 2. DYNAMIC LIVE STATS & STATUS CAPSULES -->
+  <!-- ================================================================= -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/ghulamullahanees?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers" />
     <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10b981?style=for-the-badge" alt="Status" />
-    <img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-7c3aed?style=for-the-badge" alt="Experience" />
+    <img src="https://img.shields.io/badge/EXPERIENCE-1%2B%20YEARS-7c3aed?style=for-the-badge" alt="Experience" />
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/LOCATION-ISLAMABAD%2C%20PK-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/TECH%20FOCUS-.NET%208%2F9%20%7C%20ANGULAR%20%7C%20SQL%20SERVER-0284c7?style=for-the-badge" alt="Focus" />
   </p>
 
-  <!-- 3. MULTI-LINE TYPING TERMINAL -->
+  <!-- ================================================================= -->
+  <!-- 3. MULTI-LINE ANIMATED TYPING TERMINAL -->
+  <!-- ================================================================= -->
   <p align="center">
     <a href="https://github.com/ghulamullahanees">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=860&height=85&lines=%F0%9F%9A%80+Lead+Full-Stack+.NET+Engineer+%26+Enterprise+Architect;%F0%9F%8F%A2+Specializing+in+.NET+8%2F9%2C+Angular+17%2B+%26+High-Throughput+SQL;%E2%9A%A1+Nationwide+Deployments%3A+D.Watson+%E2%80%A2+King+Shoes+%E2%80%A2+Margalla+%E2%80%A2+Butt+Karahi;%F0%9F%9B%A1%EF%B8%8F+Zero+Deadlocks+%E2%80%A2+Zero+Store+Downtime+%E2%80%A2+Sub-Second+Latency" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=880&height=90&lines=%F0%9F%9A%80+Lead+Full-Stack+.NET+Engineer+%26+Enterprise+Architect;%F0%9F%8F%A2+Specializing+in+.NET+8%2F9%2C+Angular+17%2B+%26+High-Throughput+SQL;%E2%9A%A1+Nationwide+Deployments%3A+D.Watson+%E2%80%A2+King+Shoes+%E2%80%A2+Margalla+%E2%80%A2+Butt+Karahi;%F0%9F%9B%A1%EF%B8%8F+Zero+Deadlocks+%E2%80%A2+Zero+Store+Downtime+%E2%80%A2+Sub-Second+Latency" alt="Typing SVG" />
     </a>
   </p>
 
+  <!-- ================================================================= -->
   <!-- 4. INTERACTIVE QUICK NAVIGATION BAR -->
+  <!-- ================================================================= -->
   <p align="center">
     <a href="#-about-me"><img src="https://img.shields.io/badge/—%20About%20Me-0f172a?style=for-the-badge" /></a>
     <a href="#-work-experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge" /></a>
     <a href="#-core-engineering-pillars"><img src="https://img.shields.io/badge/🛡️%20Architecture-0f172a?style=for-the-badge" /></a>
     <a href="#-tech-stack--skills"><img src="https://img.shields.io/badge/🛠️%20Tech%20Stack-0f172a?style=for-the-badge" /></a>
     <a href="#-commercial--enterprise-projects"><img src="https://img.shields.io/badge/🏢%20Enterprise%20Work-0f172a?style=for-the-badge" /></a>
+    <a href="#-distributed-erp-architecture"><img src="https://img.shields.io/badge/🔄%20Sync%20Engine-0f172a?style=for-the-badge" /></a>
     <a href="#-github-analytics"><img src="https://img.shields.io/badge/📊%20Analytics-0f172a?style=for-the-badge" /></a>
     <a href="#-what-i-deliver-to-teams--clients"><img src="https://img.shields.io/badge/💡%20Deliverables-0f172a?style=for-the-badge" /></a>
     <a href="#-lets-connect--collaborate"><img src="https://img.shields.io/badge/@%20Connect-0f172a?style=for-the-badge" /></a>
@@ -37,20 +47,36 @@
 
 ---
 
+## 💻 System Terminal Console
+
+```bash
+ghulamullah@enterprise-node:~$ sys-info --status --all
+┌──────────────────────┬─────────────────────────────────────────────────────────────┐
+│ Principal Engineer   │ Ghulam Ullah                                                │
+│ Current Designation  │ Lead Full-Stack .NET Engineer @ Multi Tech Solutions        │
+│ Primary Speciality   │ High-Concurrency Enterprise ERPs, Retail POS & Sync Engines │
+│ Core Technology Stack│ C# 12 • .NET 8/9 • ASP.NET Core • MS SQL Server • Angular   │
+│ Major Deployments    │ D.Watson • King Shoes • Margalla Packages • Butt Karahi     │
+│ Engineering Mission  │ "Zero Deadlocks. Zero Store Downtime. Millisecond Latency." │
+└──────────────────────┴─────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 👋 About Me
 
 <table>
   <tr>
     <td width="65%" valign="top">
       <p>
-        Hello! I'm <b>Ghulam Ullah</b>, a dedicated <b>Lead Full-Stack Software Engineer &amp; Enterprise Architect</b> based in Islamabad, Pakistan with over <b>5+ years of professional experience</b> engineering mission-critical enterprise web applications, high-throughput database systems, and real-time distributed retail ecosystems.
+        Hello! I'm <b>Ghulam Ullah</b>, a dedicated <b>Lead Full-Stack Software Engineer &amp; Enterprise Architect</b> based in Islamabad, Pakistan with over <b>1+ years of intense, high-impact professional experience</b> engineering mission-critical enterprise web applications, high-throughput database systems, and real-time distributed retail ecosystems.
       </p>
       <ul>
         <li>💼 <b>Lead Software Engineer</b> at <b>Multi-Tech Solutions</b></li>
-        <li>🏛️ <b>Enterprise ERP Consultant:</b> Spearheaded large-scale implementations for retail pharmacy chains, footwear conglomerates, packaging industries, and restaurant networks.</li>
-        <li>⚙️ <b>Backend Engineering:</b> ASP.NET Core · .NET 8/9 · C# · RESTful Web APIs · Entity Framework Core · Dapper · WCF / Web Services</li>
-        <li>🎨 <b>Frontend Engineering:</b> Angular 17+ · TypeScript · RxJS · JavaScript (ES6+) · jQuery · Modern Responsive UI</li>
-        <li>🗄️ <b>Database Architecture:</b> Microsoft SQL Server schema modeling, complex T-SQL stored procedures, execution plan analysis, deadlock prevention &amp; query performance tuning.</li>
+        <li>🏛️ <b>Enterprise ERP Specialist:</b> Spearheaded large-scale implementations for nationwide retail pharmacy networks, footwear retail chains, corrugated manufacturing industries, and high-volume dining POS networks.</li>
+        <li>⚙️ <b>Backend Mastery:</b> ASP.NET Core · .NET 8/9 · C# · RESTful Web APIs · Entity Framework Core · Dapper · Microservices · LINQ</li>
+        <li>🎨 <b>Frontend Engineering:</b> Angular 17+ · TypeScript · RxJS · JavaScript (ES6+) · jQuery · Modern Responsive Dark/Light UI</li>
+        <li>🗄️ <b>Database Architecture:</b> Microsoft SQL Server schema modeling, complex T-SQL stored procedures, execution plan profiling, deadlock elimination &amp; indexing optimization.</li>
         <li>📐 <b>Software Principles:</b> Clean Architecture · SOLID · Repository &amp; Unit of Work · Role-Based Access Control (RBAC) · Offline-to-Online Sync Engines.</li>
       </ul>
     </td>
@@ -69,7 +95,7 @@ public class LeadEngineerProfile
     public string FullName { get; } = "Ghulam Ullah";
     public string Role { get; } = "Lead Full-Stack .NET Engineer & Enterprise Architect";
     public string Location { get; } = "Islamabad, Pakistan";
-    public int YearsOfExperience { get; } = 5;
+    public double YearsOfExperience { get; } = 1.0;
     
     public string[] CoreStack => new[]
     {
@@ -79,11 +105,10 @@ public class LeadEngineerProfile
 
     public string[] KeyEnterpriseDeployments => new[]
     {
-        "D.Watson Superstores & Pharmacy (Nationwide POS & WMS)",
-        "King Shoes Pakistan (Omnichannel Retail POS)",
-        "Margalla Packages Industry (Corrugated Manufacturing ERP)",
-        "NN Plastic Industries (Industrial Polymer ERP)",
-        "Butt Karahi (Dining POS & Real-Time Kitchen Display System)"
+        "D.Watson Superstores & Pharmacy (Nationwide POS & Central WMS)",
+        "King Shoes Pakistan (Omnichannel Footwear POS)",
+        "Margalla Packages Industry (Manufacturing & Production ERP)",
+        "Butt Karahi (Dining POS & Real-Time Kitchen Display System - KDS)"
     };
 
     public string EngineeringMission => "Zero Deadlocks. Zero Store Downtime. Millisecond Latency.";
@@ -124,7 +149,7 @@ public class LeadEngineerProfile
 <table>
   <tr>
     <td width="22%" valign="top">
-      <span style="background: #1e293b; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-weight: bold; font-size: 12px;">Aug 2021 — Present</span>
+      <span style="background: #1e293b; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-weight: bold; font-size: 12px;">Oct 2025 — Present</span>
       <br/><br/>
       🟢 <b>Current Role</b>
     </td>
@@ -140,20 +165,34 @@ public class LeadEngineerProfile
   </tr>
   <tr>
     <td width="22%" valign="top">
-      <span style="background: #1e293b; color: #94a3b8; padding: 4px 10px; border-radius: 6px; font-weight: bold; font-size: 12px;">Jan 2019 — Jul 2021</span>
+      <span style="background: #1e293b; color: #a855f7; padding: 4px 10px; border-radius: 6px; font-weight: bold; font-size: 12px;">Oct 2025 — Present</span>
       <br/><br/>
-      ⚪ <b>Previous Role</b>
+      🟣 <b>Enterprise Consulting</b>
     </td>
     <td width="78%" valign="top">
-      <h3>Full-Stack .NET Developer · Dev Soft Technologies</h3>
+      <h3>Full-Stack .NET Consultant · Enterprise ERP &amp; POS Systems</h3>
       <ul>
-        <li>Developed commercial inventory, accounting, and billing systems utilizing <b>C#</b>, <b>ASP.NET MVC</b>, <b>Windows Forms</b>, and <b>SQL Server</b>.</li>
+        <li>Architected mission-critical enterprise systems including <b>D.Watson Superstores</b>, <b>King Shoes Pakistan</b>, <b>Margalla Packages Industry</b>, and <b>Butt Karahi</b>.</li>
         <li>Built automated ledger generation routines, tax invoice compliance modules (FBR integrations), and multi-currency transaction tracking.</li>
-        <li>Optimized legacy database queries, reducing report compilation times by up to 65%.</li>
+        <li>Optimized legacy database queries and designed real-time Kitchen Display Systems (KDS) and distributed offline POS sync engines.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+## 🔄 Distributed ERP Architecture: Offline-to-Online Sync Engine
+
+```mermaid
+flowchart LR
+    A["🏪 Retail Stores (Offline POS)"] -->|"⚡ Local Transactions"| B["💾 Local SQLite / SQL Express Cache"]
+    B -->|"🔄 Auto-Sync Queue (Network Resume)"| C["☁️ Central Cloud ERP Web APIs"]
+    C -->|"🚀 High-Speed Bulk Upsert"| D[("🗄️ Enterprise MS SQL Cluster")]
+    D -->|"📊 Live Dashboards"| E["📈 HQ Financials & Inventory"]
+    D -->|"🍳 Kitchen Display System"| F["🍽️ Real-Time KDS Screen"]
+    D -->|"🧾 Digital Compliance"| G["🏛️ FBR Tax Invoicing"]
+```
 
 ---
 
@@ -342,8 +381,8 @@ public class LeadEngineerProfile
       <img src="https://img.shields.io/badge/LINKEDIN-GHULAM%20ULLAH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:ghulamullahanees@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-GHULAMULLAHANEES%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:ghulamullah3621@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-GHULAMULLAH3621%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
   <p>
