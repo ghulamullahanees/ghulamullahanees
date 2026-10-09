@@ -3,7 +3,7 @@
   <!-- ================================================================= -->
   <!-- 1. DYNAMIC CYBER NEON WAVING HERO BANNER -->
   <!-- ================================================================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=240&section=header&text=GHULAM%20ULLAH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=🚀%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20🚀&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=240&section=header&text=GHULAM%20ULLAH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=⚡%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20⚡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- ================================================================= -->
   <!-- 2. DYNAMIC LIVE STATS & STATUS CAPSULES -->
@@ -16,7 +16,7 @@
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/LOCATION-ISLAMABAD%2C%20PK-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/TECH%20FOCUS-.NET%208%2F9%20%7C%20ANGULAR%20%7C%20SQL%20SERVER-0284c7?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/CORE%20STACK-.NET%208%2F9%20%E2%80%A2%20ANGULAR%20%E2%80%A2%20SQL%20SERVER-0284c7?style=for-the-badge" alt="Core Stack" />
   </p>
 
   <!-- ================================================================= -->
@@ -33,33 +33,16 @@
   <!-- ================================================================= -->
   <p align="center">
     <a href="#-about-me"><img src="https://img.shields.io/badge/—%20About%20Me-0f172a?style=for-the-badge" /></a>
-    <a href="#-work-experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge" /></a>
     <a href="#-core-engineering-pillars"><img src="https://img.shields.io/badge/🛡️%20Architecture-0f172a?style=for-the-badge" /></a>
+    <a href="#-work-experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge" /></a>
     <a href="#-tech-stack--skills"><img src="https://img.shields.io/badge/🛠️%20Tech%20Stack-0f172a?style=for-the-badge" /></a>
     <a href="#-commercial--enterprise-projects"><img src="https://img.shields.io/badge/🏢%20Enterprise%20Work-0f172a?style=for-the-badge" /></a>
-    <a href="#-distributed-erp-architecture"><img src="https://img.shields.io/badge/🔄%20Sync%20Engine-0f172a?style=for-the-badge" /></a>
     <a href="#-github-analytics"><img src="https://img.shields.io/badge/📊%20Analytics-0f172a?style=for-the-badge" /></a>
     <a href="#-what-i-deliver-to-teams--clients"><img src="https://img.shields.io/badge/💡%20Deliverables-0f172a?style=for-the-badge" /></a>
     <a href="#-lets-connect--collaborate"><img src="https://img.shields.io/badge/@%20Connect-0f172a?style=for-the-badge" /></a>
   </p>
 
 </div>
-
----
-
-## 💻 System Terminal Console
-
-```bash
-ghulamullah@enterprise-node:~$ sys-info --status --all
-┌──────────────────────┬─────────────────────────────────────────────────────────────┐
-│ Principal Engineer   │ Ghulam Ullah                                                │
-│ Current Designation  │ Lead Full-Stack .NET Engineer @ Multi Tech Solutions        │
-│ Primary Speciality   │ High-Concurrency Enterprise ERPs, Retail POS & Sync Engines │
-│ Core Technology Stack│ C# 12 • .NET 8/9 • ASP.NET Core • MS SQL Server • Angular   │
-│ Major Deployments    │ D.Watson • King Shoes • Margalla Packages • Butt Karahi     │
-│ Engineering Mission  │ "Zero Deadlocks. Zero Store Downtime. Millisecond Latency." │
-└──────────────────────┴─────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -179,20 +162,6 @@ public class LeadEngineerProfile
     </td>
   </tr>
 </table>
-
----
-
-## 🔄 Distributed ERP Architecture: Offline-to-Online Sync Engine
-
-```mermaid
-flowchart LR
-    A["🏪 Retail Stores (Offline POS)"] -->|"⚡ Local Transactions"| B["💾 Local SQLite / SQL Express Cache"]
-    B -->|"🔄 Auto-Sync Queue (Network Resume)"| C["☁️ Central Cloud ERP Web APIs"]
-    C -->|"🚀 High-Speed Bulk Upsert"| D[("🗄️ Enterprise MS SQL Cluster")]
-    D -->|"📊 Live Dashboards"| E["📈 HQ Financials & Inventory"]
-    D -->|"🍳 Kitchen Display System"| F["🍽️ Real-Time KDS Screen"]
-    D -->|"🧾 Digital Compliance"| G["🏛️ FBR Tax Invoicing"]
-```
 
 ---
 
