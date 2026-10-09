@@ -1,115 +1,9 @@
 <div align="center">
 
-  <!-- ================================================================= -->
-  <!-- 1. DYNAMIC SVG TERMINAL HERO BANNER -->
-  <!-- ================================================================= -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 310" width="100%" height="100%">
-    <defs>
-      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#071a36"/>
-        <stop offset="50%" stop-color="#0c2d58"/>
-        <stop offset="100%" stop-color="#144b8a"/>
-      </linearGradient>
-      <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#38bdf8"/>
-        <stop offset="100%" stop-color="#818cf8"/>
-      </linearGradient>
-      <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#051329" stop-opacity="0.95"/>
-        <stop offset="100%" stop-color="#091f3d" stop-opacity="0.95"/>
-      </linearGradient>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="6" result="blur" />
-        <feComposite in="SourceGraphic" in2="blur" operator="over" />
-      </filter>
-    </defs>
+  <!-- 1. DYNAMIC CYBER NEON WAVING HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=230&section=header&text=GHULAM%20ULLAH&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20✨&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
 
-    <!-- Background Card -->
-    <rect width="920" height="310" rx="18" fill="url(#bgGrad)" stroke="#1e4976" stroke-width="1.5"/>
-
-    <!-- Decorative Glow Circles -->
-    <circle cx="820" cy="60" r="130" fill="#38bdf8" opacity="0.08" filter="url(#glow)"/>
-    <circle cx="80" cy="240" r="100" fill="#818cf8" opacity="0.07" filter="url(#glow)"/>
-    <circle cx="500" cy="180" r="160" fill="#0284c7" opacity="0.05"/>
-
-    <!-- Top Pills -->
-    <g transform="translate(40, 28)">
-      <!-- Pill 1: Role -->
-      <rect x="0" y="0" width="240" height="26" rx="13" fill="#0b2447" stroke="#0284c7" stroke-width="1"/>
-      <circle cx="14" cy="13" r="4" fill="#22c55e"/>
-      <text x="26" y="17" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="700" letter-spacing="1">LEAD FULL-STACK ENGINEER</text>
-
-      <!-- Pill 2: Experience -->
-      <rect x="520" y="0" width="105" height="26" rx="13" fill="#0b2447" stroke="#eab308" stroke-width="1"/>
-      <text x="532" y="17" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="700">⚡ 5+ Yrs Exp</text>
-
-      <!-- Pill 3: Architecture -->
-      <rect x="635" y="0" width="115" height="26" rx="13" fill="#0b2447" stroke="#818cf8" stroke-width="1"/>
-      <text x="647" y="17" fill="#c7d2fe" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="700">🏛️ Clean Arch</text>
-
-      <!-- Pill 4: Location -->
-      <rect x="760" y="0" width="75" height="26" rx="13" fill="#0b2447" stroke="#38bdf8" stroke-width="1"/>
-      <text x="772" y="17" fill="#bae6fd" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="700">📍 PK</text>
-    </g>
-
-    <!-- Main Title -->
-    <text x="40" y="112" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="44" font-weight="900" letter-spacing="-0.5">Ghulam Ullah</text>
-    <text x="355" y="112" fill="url(#accentGrad)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="22" font-weight="700">Lead Engineer &amp; Enterprise Architect</text>
-
-    <!-- Terminal Code Box inside Header -->
-    <g transform="translate(40, 135)">
-      <rect width="840" height="74" rx="10" fill="url(#cardGrad)" stroke="#1e3a5f" stroke-width="1"/>
-      
-      <!-- Terminal Dots -->
-      <circle cx="18" cy="18" r="4.5" fill="#ef4444"/>
-      <circle cx="32" cy="18" r="4.5" fill="#f59e0b"/>
-      <circle cx="46" cy="18" r="4.5" fill="#10b981"/>
-      <text x="62" y="22" fill="#64748b" font-family="'Courier New',Consolas,monospace" font-size="11" font-weight="600">bash - profile.env</text>
-
-      <!-- Terminal Text -->
-      <text x="18" y="48" fill="#38bdf8" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="700">λ role ::</text>
-      <text x="92" y="48" fill="#f8fafc" font-family="'Courier New',Consolas,monospace" font-size="13" font-weight="600">Lead Full-Stack Engineer specializing in .NET 8/9 &amp; Angular Enterprise Ecosystems</text>
-    </g>
-
-    <!-- Tech Badges Footer -->
-    <g transform="translate(40, 235)">
-      <!-- ASP.NET Core -->
-      <rect x="0" y="0" width="125" height="28" rx="14" fill="#0f2b4c" stroke="#3b82f6" stroke-width="1"/>
-      <circle cx="14" cy="14" r="4" fill="#60a5fa"/>
-      <text x="26" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="700">ASP.NET Core</text>
-
-      <!-- Angular 17+ -->
-      <rect x="135" y="0" width="110" height="28" rx="14" fill="#0f2b4c" stroke="#ec4899" stroke-width="1"/>
-      <circle cx="149" cy="14" r="4" fill="#f43f5e"/>
-      <text x="161" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="700">Angular 17+</text>
-
-      <!-- SQL Server -->
-      <rect x="255" y="0" width="115" height="28" rx="14" fill="#0f2b4c" stroke="#eab308" stroke-width="1"/>
-      <circle cx="269" cy="14" r="4" fill="#fbbf24"/>
-      <text x="281" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="700">SQL Server</text>
-
-      <!-- Clean Architecture -->
-      <rect x="380" y="0" width="155" height="28" rx="14" fill="#0f2b4c" stroke="#818cf8" stroke-width="1"/>
-      <circle cx="394" cy="14" r="4" fill="#a5b4fc"/>
-      <text x="406" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="700">Clean Architecture</text>
-
-      <!-- ERP / POS Systems -->
-      <rect x="545" y="0" width="145" height="28" rx="14" fill="#0f2b4c" stroke="#10b981" stroke-width="1"/>
-      <circle cx="559" cy="14" r="4" fill="#34d399"/>
-      <text x="571" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="700">ERP / POS Systems</text>
-
-      <!-- RESTful Web APIs -->
-      <rect x="700" y="0" width="150" height="28" rx="14" fill="#0f2b4c" stroke="#f97316" stroke-width="1"/>
-      <circle cx="714" cy="14" r="4" fill="#fb923c"/>
-      <text x="726" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11.5" font-weight="700">RESTful Web APIs</text>
-    </g>
-  </svg>
-
-  <br/><br/>
-
-  <!-- ================================================================= -->
-  <!-- 2. STATUS CAPSULE BADGES -->
-  <!-- ================================================================= -->
+  <!-- 2. DYNAMIC LIVE STATS & STATUS CAPSULES -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/ghulamullahanees?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers" />
@@ -120,9 +14,14 @@
     <img src="https://img.shields.io/badge/LOCATION-ISLAMABAD%2C%20PK-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-  <!-- ================================================================= -->
-  <!-- 3. INTERACTIVE QUICK NAVIGATION BAR -->
-  <!-- ================================================================= -->
+  <!-- 3. MULTI-LINE TYPING TERMINAL -->
+  <p align="center">
+    <a href="https://github.com/ghulamullahanees">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=860&height=85&lines=%F0%9F%9A%80+Lead+Full-Stack+.NET+Engineer+%26+Enterprise+Architect;%F0%9F%8F%A2+Specializing+in+.NET+8%2F9%2C+Angular+17%2B+%26+High-Throughput+SQL;%E2%9A%A1+Nationwide+Deployments%3A+D.Watson+%E2%80%A2+King+Shoes+%E2%80%A2+Margalla+%E2%80%A2+Butt+Karahi;%F0%9F%9B%A1%EF%B8%8F+Zero+Deadlocks+%E2%80%A2+Zero+Store+Downtime+%E2%80%A2+Sub-Second+Latency" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- 4. INTERACTIVE QUICK NAVIGATION BAR -->
   <p align="center">
     <a href="#-about-me"><img src="https://img.shields.io/badge/—%20About%20Me-0f172a?style=for-the-badge" /></a>
     <a href="#-work-experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge" /></a>
@@ -401,11 +300,6 @@ public class LeadEngineerProfile
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <!-- Contribution Graph Activity Snake -->
-  <img src="https://github.com/ghulamullahanees/ghulamullahanees/raw/main/dist/github-contribution-grid-snake.svg" alt="Activity Snake" width="100%" onerror="this.style.display='none'" />
 </div>
 
 ---
