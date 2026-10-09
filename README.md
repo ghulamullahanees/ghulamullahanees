@@ -316,12 +316,6 @@ public class LeadEngineerProfile
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamullahanees&theme=radical&hide_border=true&background=0B192C&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamullahanees&theme=react-dark&hide_border=true&area=true&color=38bdf8" alt="Activity Curve" width="100%" />
-      </td>
-    </tr>
   </table>
 
   <br/>
