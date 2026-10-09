@@ -1,96 +1,106 @@
 <div align="center">
 
-# Ghulam Ullah
+  # Hi there, I'm <span style="color: #38bdf8;">Ghulam Ullah</span> 👋
+  ### 🚀 Senior Full-Stack .NET Developer | Enterprise ERP & POS Solutions Architect
 
-### Full-Stack .NET Developer
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ghulamullah" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://butt-karahi.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-Butt--Karahi-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://github.com/ghulamullahanees">
+      <img src="https://img.shields.io/badge/GitHub-ghulamullahanees-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-**Business applications · APIs · E-commerce**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulamullah) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghulamullahanees)
-
-📍 **Islamabad, Pakistan** · Open to Full-Stack .NET and backend/API opportunities
+  <p align="center">
+    📍 <b>Islamabad, Pakistan</b> | 🏢 <b>Multi Tech Solutions</b><br>
+    <i>Passionate software engineer specializing in architecting high-performance ERPs, POS Systems, Inventory Accounting, and Scalable REST APIs using the Microsoft .NET ecosystem.</i>
+  </p>
 
 </div>
 
 ---
 
-## About
+### 💫 About Me
 
-I build and maintain web applications, APIs, business systems, and customer-facing e-commerce experiences. My work includes accounting and inventory workflows, reporting, research tools, corporate websites, and online stores.
+- 🏢 **Current Role:** Full-Stack .NET Engineer at **Multi Tech Solutions**.
+- 💻 **Core Specialization:** Enterprise Web Applications, Real-Time POS (Point of Sale), Restaurant Dining Automation, Inventory & Accounting Systems.
+- ⚙️ **Backend Engineering:** ASP.NET Core, ASP.NET MVC, C#, Entity Framework Core, LINQ, RESTful Web APIs, and multi-tenant database models.
+- 🗄️ **Database & Performance:** Complex MS SQL Server Stored Procedures, Index Tuning, Deadlock Prevention, and Offline-to-Online Data Synchronization.
+- 🎨 **Frontend Engineering:** Clean, fast interactive interfaces using Angular, AngularJS, jQuery, JavaScript, and Responsive Bootstrap.
+- 📫 **Connect with me:** Reach out on [LinkedIn](https://www.linkedin.com/in/ghulamullah)!
 
-## Technical Skills
+---
 
-**Backend & APIs:** ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Web API](https://img.shields.io/badge/Web_API-005571?style=flat-square)<br>
-**Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br>
-**Data & Integration:** ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)<br>
-LINQ · SQL Stored Procedures · AJAX
+### 🛠️ Tech Stack & Skills
 
-## Selected Projects
+<div align="center">
 
-### InvAcc Online — Business Management & Accounting System
+#### **Backend & Frameworks**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=fastapi&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-6C3483?style=for-the-badge&logo=nuget&logoColor=white)
 
-A comprehensive business system for accounting, inventory, sales, purchasing, stock management, reporting, payment verification, and transaction workflows.
+#### **Frontend & UI**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Technologies:** C# · ASP.NET MVC · SQL Server · Entity Framework · LINQ · AngularJS · JavaScript · AJAX · Web API · SQL Stored Procedures
+#### **Databases & Architecture**
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL_Stored_Procedures-333333?style=for-the-badge&logo=database&logoColor=white)
+![Database Design](https://img.shields.io/badge/Schema_Design-006699?style=for-the-badge&logo=databricks&logoColor=white)
 
-### King Shoes — E-Commerce Website
+#### **Tools & DevOps**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS_Server-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
-Developed and maintained an online footwear store with product categories and listings, shopping functionality, product search, shipping and delivery information, and returns and exchange information.
+</div>
 
-**Website:** [kingshoes.com.pk](https://www.kingshoes.com.pk/)
+---
 
-### Map and Location Tracker
+### 📊 GitHub Activity & Statistics
 
-A map-based application for interactive location visualization, map integration, and tracking-related functionality.
+<div align="center">
 
-**Technologies:** JavaScript · APIs · HTML · CSS · Map and location services
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamullahanees&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0b192c" alt="Ghulam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamullahanees&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0b192c" alt="Top Languages" width="48%" />
 
-### Margalla Packages Industry — Corporate Website
+  <br/><br/>
 
-Developed and maintained a corporate website for a plastic packaging manufacturer, featuring company information, services, a product catalogue, portfolio, clients, contact forms, and social media integration.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamullahanees&theme=radical&hide_border=true&background=0B192C&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%" />
 
-**Website:** [margallapackagesindustry.com](https://www.margallapackagesindustry.com/)
+</div>
 
-### Nadeem Plastic — DWatson E-Commerce Website
+---
 
-Developed and maintained a customer-facing retail website with product browsing, online shopping functionality, and customer information.
+### 💼 Featured Domain Expertise
 
-**Website:** [dwatson.pk](https://dwatson.pk/)
-
-### PaperPoint — Research Paper Generation & Management System
-
-A research-focused application for organizing research information, supporting paper generation, managing academic content, and maintaining related documents through a structured workflow.
-
-**Technologies:** .NET · SQL Server · Web API · JavaScript · HTML · CSS
-
-### GhulamNote — AI-Assisted Study & Note-Taking App
-
-An AI-assisted study and note-taking app with PDF workflows, page-specific notes, and Gemini-powered summaries and chat.
-
-**Technologies:** .NET 8 · ASP.NET Core Web API · SQL Server · Entity Framework Core · HTML · CSS · JavaScript  
-**Repository:** [github.com/ghulamullahanees/ghulamnote](https://github.com/ghulamullahanees/ghulamnote)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ghulamullahanees&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;hide_border=true" alt="GitHub profile stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ghulamullahanees&amp;layout=compact&amp;hide_border=true" alt="Most used public repository languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghulamullahanees&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views counter" />
-</p>
-
-*Stats and language cards use public-repository data. Profile views count page hits, not unique visitors.*
-
-## Current Focus
-
-Building reliable .NET applications, improving business processes, and creating useful software experiences for organizations and their customers.
+- 🏢 **Enterprise ERP & Accounting Systems:** End-to-end inventory management, general ledgers, stock audit, barcode scanning, multiple item ledgers, and financial reports.
+- 🍽️ **Restaurant POS & Retail Solutions:** High-speed dining hall & table management, KOT kitchen printing, live token management, offline-to-online sync, and daily shift cash controls.
+- ⚡ **Database Optimization:** High-concurrency transaction handling, stored procedure optimization, and data synchronization across distributed nodes.
+- 🔄 **RESTful API Integration:** Integration with third-party payment gateways, receipt thermal printers, and digital tax authorities.
 
 ---
 
 <div align="center">
 
-*Thanks for visiting my profile.*
+  #### 🤝 Let's connect and build scalable systems together!
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulamullah)
+  [![Website](https://img.shields.io/badge/Visit_Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://butt-karahi.com/)
 
 </div>
