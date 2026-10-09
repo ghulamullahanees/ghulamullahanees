@@ -1,9 +1,9 @@
 <div align="center">
 
   <!-- ================================================================= -->
-  <!-- 1. DYNAMIC CYBER NEON WAVING HERO BANNER -->
+  <!-- 1. DYNAMIC 3D CYBER NEON WAVING HERO BANNER -->
   <!-- ================================================================= -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=240&section=header&text=GHULAM%20ULLAH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=⚡%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20⚡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=250&section=header&text=GHULAM%20ULLAH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=⚡%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20⚡&descFontSize=16&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- ================================================================= -->
   <!-- 2. DYNAMIC LIVE STATS & STATUS CAPSULES -->
@@ -20,16 +20,25 @@
   </p>
 
   <!-- ================================================================= -->
-  <!-- 3. MULTI-LINE ANIMATED TYPING TERMINAL -->
+  <!-- 3. MULTI-LINE ANIMATED 3D NEON TYPING TERMINAL -->
   <!-- ================================================================= -->
   <p align="center">
     <a href="https://github.com/ghulamullahanees">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=880&height=90&lines=%F0%9F%9A%80+Lead+Full-Stack+.NET+Engineer+%26+Enterprise+Architect;%F0%9F%8F%A2+Specializing+in+.NET+8%2F9%2C+Angular+17%2B+%26+High-Throughput+SQL;%E2%9A%A1+Nationwide+Deployments%3A+D.Watson+%E2%80%A2+King+Shoes+%E2%80%A2+Margalla+%E2%80%A2+Butt+Karahi;%F0%9F%9B%A1%EF%B8%8F+Zero+Deadlocks+%E2%80%A2+Zero+Store+Downtime+%E2%80%A2+Sub-Second+Latency" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=880&height=95&lines=%F0%9F%9A%80+Lead+Full-Stack+.NET+Engineer+%26+Enterprise+Architect;%F0%9F%8F%A2+Specializing+in+.NET+8%2F9%2C+Angular+17%2B+%26+High-Throughput+SQL;%E2%9A%A1+Nationwide+Deployments%3A+D.Watson+%E2%80%A2+King+Shoes+%E2%80%A2+Margalla+%E2%80%A2+Butt+Karahi;%F0%9F%9B%A1%EF%B8%8F+Zero+Deadlocks+%E2%80%A2+Zero+Store+Downtime+%E2%80%A2+Sub-Second+Latency" alt="Typing SVG" />
     </a>
   </p>
 
   <!-- ================================================================= -->
-  <!-- 4. INTERACTIVE QUICK NAVIGATION BAR -->
+  <!-- 4. 🏆 GITHUB PROFILE 3D TROPHIES SHOWCASE -->
+  <!-- ================================================================= -->
+  <p align="center">
+    <a href="https://github.com/ghulamullahanees">
+      <img src="https://github-profile-trophy.vercel.app/?username=ghulamullahanees&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+    </a>
+  </p>
+
+  <!-- ================================================================= -->
+  <!-- 5. INTERACTIVE QUICK NAVIGATION BAR -->
   <!-- ================================================================= -->
   <p align="center">
     <a href="#-about-me"><img src="https://img.shields.io/badge/—%20About%20Me-0f172a?style=for-the-badge" /></a>
@@ -37,7 +46,7 @@
     <a href="#-work-experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge" /></a>
     <a href="#-tech-stack--skills"><img src="https://img.shields.io/badge/🛠️%20Tech%20Stack-0f172a?style=for-the-badge" /></a>
     <a href="#-commercial--enterprise-projects"><img src="https://img.shields.io/badge/🏢%20Enterprise%20Work-0f172a?style=for-the-badge" /></a>
-    <a href="#-github-analytics"><img src="https://img.shields.io/badge/📊%20Analytics-0f172a?style=for-the-badge" /></a>
+    <a href="#-github-analytics--activity"><img src="https://img.shields.io/badge/📊%20Analytics-0f172a?style=for-the-badge" /></a>
     <a href="#-what-i-deliver-to-teams--clients"><img src="https://img.shields.io/badge/💡%20Deliverables-0f172a?style=for-the-badge" /></a>
     <a href="#-lets-connect--collaborate"><img src="https://img.shields.io/badge/@%20Connect-0f172a?style=for-the-badge" /></a>
   </p>
@@ -50,7 +59,7 @@
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="62%" valign="top">
       <p>
         Hello! I'm <b>Ghulam Ullah</b>, a dedicated <b>Lead Full-Stack Software Engineer &amp; Enterprise Architect</b> based in Islamabad, Pakistan with over <b>1+ years of intense, high-impact professional experience</b> engineering mission-critical enterprise web applications, high-throughput database systems, and real-time distributed retail ecosystems.
       </p>
@@ -63,8 +72,8 @@
         <li>📐 <b>Software Principles:</b> Clean Architecture · SOLID · Repository &amp; Unit of Work · Role-Based Access Control (RBAC) · Offline-to-Online Sync Engines.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=420&q=80" alt="Software Architecture" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" width="100%" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding 3D Animation" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
     </td>
   </tr>
 </table>
@@ -165,7 +174,7 @@ public class LeadEngineerProfile
 
 ---
 
-## 🛠️ Tech Stack &amp; Skills
+## 🛠️ Tech Stack &amp; Engineering Arsenal
 
 <table>
   <tr>
@@ -290,7 +299,7 @@ public class LeadEngineerProfile
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics &amp; Activity
 
 <div align="center">
   <table border="0">
@@ -307,6 +316,12 @@ public class LeadEngineerProfile
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamullahanees&theme=radical&hide_border=true&background=0B192C&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamullahanees&theme=react-dark&hide_border=true&area=true&color=38bdf8" alt="Activity Curve" width="100%" />
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -318,19 +333,19 @@ public class LeadEngineerProfile
   <tr>
     <td width="33.3%" align="center" valign="top">
       <br/>
-      <img src="https://img.icons8.com/fluency/48/000000/maintenance.png" width="36" />
+      <img src="https://img.icons8.com/fluency/48/000000/maintenance.png" width="40" />
       <h4>Scalable Architecture</h4>
       <p style="font-size: 13px; color: #94a3b8;">Clean, modular .NET backends engineered to scale gracefully as business transaction demands increase.</p>
     </td>
     <td width="33.3%" align="center" valign="top">
       <br/>
-      <img src="https://img.icons8.com/fluency/48/000000/flash-on.png" width="36" />
+      <img src="https://img.icons8.com/fluency/48/000000/flash-on.png" width="40" />
       <h4>Performance First</h4>
       <p style="font-size: 13px; color: #94a3b8;">Tuned SQL Server stored procedures, optimal index execution paths, and sub-second API response times.</p>
     </td>
     <td width="33.3%" align="center" valign="top">
       <br/>
-      <img src="https://img.icons8.com/fluency/48/000000/sparkling.png" width="36" />
+      <img src="https://img.icons8.com/fluency/48/000000/sparkling.png" width="40" />
       <h4>Polished UX</h4>
       <p style="font-size: 13px; color: #94a3b8;">Reactive Angular dashboards with intuitive POS &amp; ERP workflows that operators love to navigate.</p>
     </td>
