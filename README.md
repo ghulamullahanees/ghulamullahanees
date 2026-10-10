@@ -1,55 +1,54 @@
 <div align="center">
 
-  <!-- ================================================================= -->
-  <!-- 1. DYNAMIC 3D CYBER NEON WAVING HERO BANNER -->
-  <!-- ================================================================= -->
+  <!-- ===================== ANIMATED HERO ===================== -->
   <a href="https://github.com/ghulamullahanees">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=260&section=header&text=GHULAM%20ULLAH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20%E2%9A%A1&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Ghulam Ullah - Lead Full-Stack .NET Engineer Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1,12,24,35,36&height=280&section=header&text=GHULAM%20ULLAH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20ERP%20%26%20POS%20Architect%20⚡&descFontSize=17&descAlignY=60&descAlign=50&customColorList=1,12,24,35,36" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer" />
   </a>
 
-  <!-- ================================================================= -->
-  <!-- 2. DYNAMIC LIVE STATS & STATUS CAPSULES -->
-  <!-- ================================================================= -->
-  <p align="center">
+  <br/><br/>
+
+  <!-- ================== ANIMATED TYPING TERMINAL ================== -->
+  <a href="https://github.com/ghulamullahanees">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=940&height=110&lines=%F0%9F%9A%80+Lead+Full-Stack+.NET+Engineer+%26+Enterprise+Solutions+Architect;%E2%9A%A1+Specializing+in+.NET+8%2F9%2C+Angular+17%2B+%26+High-Throughput+SQL+Server;%F0%9F%8F%A2+Nationwide+Deployments%3A+D.Watson+%E2%80%A2+King+Shoes+%E2%80%A2+Margalla+%E2%80%A2+Butt+Karahi;%F0%9F%9B%A1%EF%B8%8F+Zero+Deadlocks+%E2%80%A2+Zero+Store+Downtime+%E2%80%A2+Sub-Second+Latency;%F0%9F%94%84+Offline-to-Online+Sync+Engines+%26+Real-Time+KDS+Systems" alt="Typing Animation" />
+  </a>
+
+  <br/>
+
+  <!-- ================== LIVE STATUS CAPSULES ================== -->
+  <p>
     <img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/ghulamullahanees?label=FOLLOWERS&style=for-the-badge&color=2563eb" alt="Followers" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20NEW%20OPPORTUNITIES-10b981?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/github/stars/ghulamullahanees?style=for-the-badge&color=facc15" alt="Stars" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20NEW%20OPPORTUNITIES-10b981?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS%20COMMERCIAL-7c3aed?style=for-the-badge" alt="Experience" />
   </p>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/LOCATION-ISLAMABAD%2C%20PK-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/CORE%20STACK-.NET%208%2F9%20%E2%80%A2%20ANGULAR%2017%2B%20%E2%80%A2%20SQL%20SERVER-0284c7?style=for-the-badge" alt="Core Stack" />
+    <img src="https://img.shields.io/badge/CORE%20STACK-.NET%208%2F9%20%E2%80%A2%20ANGULAR%2017%2B%20%E2%80%A2%20SQL%20SERVER-0284c7?style=for-the-badge&logo=dotnet&logoColor=white" alt="Core Stack" />
     <img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN%20%26%20EVENT--DRIVEN-059669?style=for-the-badge" alt="Architecture" />
+    <img src="https://img.shields.io/badge/LIMITED%20TIME-HIRING%20READY-ef4444?style=for-the-badge&labelColor=ef4444&color=ffffff" alt="Hiring Ready" />
   </p>
 
-  <!-- ================================================================= -->
-  <!-- 3. MULTI-LINE ANIMATED 3D NEON TYPING TERMINAL -->
-  <!-- ================================================================= -->
-  <p align="center">
-    <a href="https://github.com/ghulamullahanees">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1100&color=38BDF8&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%9A%80+Lead+Full-Stack+.NET+Engineer+%26+Enterprise+Solutions+Architect;%E2%9A%A1+Specializing+in+.NET+8%2F9%2C+Angular+17%2B+%26+High-Throughput+SQL+Server;%F0%9F%8F%A2+Nationwide+Enterprise+Deployments%3A+D.Watson+%E2%80%A2+King+Shoes+%E2%80%A2+Margalla+%E2%80%A2+Butt+Karahi;%F0%9F%9B%A1%EF%B8%8F+Zero+Deadlocks+%E2%80%A2+Zero+Store+Downtime+%E2%80%A2+Sub-Second+Execution+Latency;%F0%9F%94%84+Offline-to-Online+Distributed+POS+Sync+Engines+%26+Real-Time+KDS+Systems" alt="Typing SVG Animation" />
-    </a>
+  <!-- ================== INTERACTIVE QUICK NAV ================== -->
+  <p>
+    <a href="#about-me"><img src="https://img.shields.io/badge/%F0%9F%91%8B%20About%20Me-0f172a?style=for-the-badge" alt="About Me" /></a>
+    <a href="#pillars"><img src="https://img.shields.io/badge/%E2%9A%8F%EF%B8%8F%20Pillars-0f172a?style=for-the-badge" alt="Pillars" /></a>
+    <a href="#experience"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Experience-0f172a?style=for-the-badge" alt="Experience" /></a>
+    <a href="#tech-stack"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack-0f172a?style=for-the-badge" alt="Tech Stack" /></a>
+    <a href="#projects"><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Projects-0f172a?style=for-the-badge" alt="Projects" /></a>
+    <a href="#analytics"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20Analytics-0f172a?style=for-the-badge" alt="Analytics" /></a>
+    <a href="#deliverables"><img src="https://img.shields.io/badge/%F0%9F%92%A1%20Deliverables-0f172a?style=for-the-badge" alt="Deliverables" /></a>
+    <a href="#connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20Connect-0f172a?style=for-the-badge" alt="Connect" /></a>
   </p>
 
-  <!-- ================================================================= -->
-  <!-- 4. INTERACTIVE QUICK NAVIGATION BAR (EXPLICIT ANCHORS) -->
-  <!-- ================================================================= -->
-  <p align="center">
-    <a href="#about-me"><img src="https://img.shields.io/badge/👤%20About%20Me-0f172a?style=for-the-badge" alt="About Me" /></a>
-    <a href="#architecture"><img src="https://img.shields.io/badge/🏛️%20Architecture-0f172a?style=for-the-badge" alt="Architecture" /></a>
-    <a href="#experience"><img src="https://img.shields.io/badge/💼%20Experience-0f172a?style=for-the-badge" alt="Experience" /></a>
-    <a href="#tech-stack"><img src="https://img.shields.io/badge/🛠️%20Tech%20Stack-0f172a?style=for-the-badge" alt="Tech Stack" /></a>
-    <a href="#projects"><img src="https://img.shields.io/badge/🏢%20Enterprise%20Work-0f172a?style=for-the-badge" alt="Projects" /></a>
-    <a href="#analytics"><img src="https://img.shields.io/badge/📊%20Analytics-0f172a?style=for-the-badge" alt="Analytics" /></a>
-    <a href="#deliverables"><img src="https://img.shields.io/badge/💡%20Deliverables-0f172a?style=for-the-badge" alt="Deliverables" /></a>
-    <a href="#connect"><img src="https://img.shields.io/badge/🤝%20Connect-0f172a?style=for-the-badge" alt="Connect" /></a>
-  </p>
+  <img src="https://ghstats.vercel.app/api?username=ghulamullahanees&theme=radical&hide_border=false&title_color=38bdf8" alt="" width="0" height="0" />
 
 </div>
 
 ---
 
 <a id="about-me"></a>
+
 ## 👋 About Me
 
 <table>
@@ -66,9 +65,15 @@
         <li>🗄️ <b>Database Architecture:</b> Microsoft SQL Server schema modeling, complex T-SQL stored procedures, execution plan profiling, deadlock elimination &amp; indexing optimization under 500k+ daily transactions.</li>
         <li>📐 <b>Software Principles:</b> Clean Architecture · Domain-Driven Design (DDD) · SOLID · Repository &amp; Unit of Work · Role-Based Access Control (RBAC) · Offline-First Sync Engines.</li>
       </ul>
+      <p>
+        <a href="https://github.com/ghulamullahanees"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Open%20to%20Work-10b981?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open to Work" /></a>
+        <a href="#connect"><img src="https://img.shields.io/badge/%F0%9F%92%89%20Let%27s%20Connect-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
+      </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding 3D Animation" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamullahanees&theme=radical&background=0B192C&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=false&border_radius=12" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -85,10 +90,10 @@ public sealed class LeadEngineerProfile
     public string Role { get; init; } = "Lead Full-Stack .NET Engineer & Enterprise Architect";
     public string Location { get; init; } = "Islamabad, Pakistan";
     public string ExperienceLevel => "2+ Years of High-Throughput Enterprise Engineering";
-    
+
     public IReadOnlyList<string> CoreStack => new[]
     {
-        "C# 12", ".NET 8 / 9", "ASP.NET Core Web APIs", "Angular 17+", 
+        "C# 12", ".NET 8 / 9", "ASP.NET Core Web APIs", "Angular 17+",
         "MS SQL Server", "Entity Framework Core", "Dapper", "Clean Architecture"
     };
 
@@ -108,7 +113,8 @@ public sealed class LeadEngineerProfile
 
 ---
 
-<a id="architecture"></a>
+<a id="pillars"></a>
+
 ## ⚙️ Core Engineering Pillars
 
 <table>
@@ -135,6 +141,7 @@ public sealed class LeadEngineerProfile
 ---
 
 <a id="experience"></a>
+
 ## 💼 Work Experience
 
 <table>
@@ -174,6 +181,7 @@ public sealed class LeadEngineerProfile
 ---
 
 <a id="tech-stack"></a>
+
 ## 🛠️ Tech Stack &amp; Engineering Arsenal
 
 <div align="center">
@@ -197,6 +205,10 @@ public sealed class LeadEngineerProfile
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=azure,firebase,graphql,jest,redux&theme=dark" alt="Cloud & Tooling" />
 </div>
 
 <details>
@@ -225,6 +237,7 @@ public sealed class LeadEngineerProfile
 ---
 
 <a id="projects"></a>
+
 ## 🏢 Commercial &amp; Enterprise Projects
 
 *Production systems engineered for commercial clients — actively powering high-volume business operations:*
@@ -318,42 +331,62 @@ public sealed class LeadEngineerProfile
 ---
 
 <a id="analytics"></a>
+
 ## 📊 GitHub Analytics &amp; Activity Overview
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/ghulamullahanees">
-          <img src="https://github-readme-stats.vercel.app/api?username=ghulamullahanees&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0b192c" alt="GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=ghulamullahanees&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0b192c&include_all_commits=true" alt="GitHub Stats" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/ghulamullahanees">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamullahanees&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0b192c" alt="Top Languages" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamullahanees&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0b192c&langs_count=8" alt="Top Languages" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/ghulamullahanees">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamullahanees&theme=radical&hide_border=true&background=0B192C&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%" />
+          <img src="https://github-profile-trophy.vercel.app/?username=ghulamullahanees&theme=radical&no-frame=false&no-bg=true&row=2&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/ghulamullahanees">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamullahanees&theme=radical" alt="GitHub Profile Summary" width="100%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamullahanees&theme=radical&background=0B192C&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=false&border_radius=12" alt="GitHub Streak" width="100%" />
         </a>
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- 🐍 Animated contribution snake -->
+  <a href="https://github.com/ghulamullahanees">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg?color=38bdf8&bgcolor=0b192c" alt="Contribution Snake Animation" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 📈 Animated activity graph -->
+  <a href="https://github.com/ghulamullahanees">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamullahanees&bg_color=0b192c&color=e2e8f0&line=38bdf8&point=38bdf8&area=true&hide_border=false&radius=12" alt="Activity Graph" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamullahanees&theme=radical" alt="Profile Summary" width="100%" />
 </div>
 
 ---
 
 <a id="deliverables"></a>
+
 ## 💡 What I Deliver to Teams &amp; Clients
 
 <table>
@@ -382,6 +415,7 @@ public sealed class LeadEngineerProfile
 ---
 
 <a id="connect"></a>
+
 ## 🤝 Let's Connect &amp; Collaborate
 
 <div align="center">
@@ -415,9 +449,10 @@ public sealed class LeadEngineerProfile
 
   <br/>
 
-  <!-- Footer Waving Banner -->
-  <a href="https://github.com/ghulamullahanees">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=100&section=footer" width="100%" alt="Footer Banner" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:1,12,24,35,36&height=110&section=footer" width="100%" alt="Footer Banner" />
+
+  <br/>
+
+  <img src="https://visitcount.itsvg.do/api?userId=ghulamullahanees&color=38bdf8&size=128&icon=0" alt="Visitor Count" />
 
 </div>
