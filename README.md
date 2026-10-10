@@ -70,7 +70,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer at Dual Monitor Coding Animation" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.4);" />
+      <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" alt="3D Isometric Full-Stack Developer Workspace Animation" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
     </td>
   </tr>
 </table>
