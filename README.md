@@ -45,7 +45,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Hello! I'm **Ghulam Ullah**, a dedicated **Lead Full-Stack Software Engineer &amp; Enterprise Solutions Architect** based in Islamabad, Pakistan with over **2+ years of professional enterprise experience** engineering mission-critical ERP platforms, high-throughput retail Point of Sale (POS) ecosystems, and real-time distributed sync architectures.
+Hello! I'm **Ghulam Ullah**, a dedicated **Lead Full-Stack Software Engineer &amp; Enterprise Solutions Architect** based in Islamabad, Pakistan with over **1+ years of professional enterprise experience** engineering mission-critical ERP platforms, high-throughput retail Point of Sale (POS) ecosystems, and real-time distributed sync architectures.
 
 - 💼 **Lead Software Engineer** at **[Multi-Tech Solutions](https://github.com/ghulamullahanees)**
 - 🏛️ **Enterprise ERP &amp; WMS Specialist:** Spearheaded large-scale architectures for nationwide retail pharmacy chains, omnichannel footwear networks, corrugated manufacturing plants, and high-volume multi-floor dining networks.
