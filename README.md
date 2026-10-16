@@ -320,7 +320,15 @@ public sealed record EngineerProfile : SoftwareEngineer
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 </picture>
+<h2 align="center">🐍 My Contribution Snake</h2>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+</picture>
+</div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
