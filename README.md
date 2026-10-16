@@ -1,36 +1,39 @@
 <!-- ════════════════════════════════════════ HERO BANNER ════════════════════════════════════════ -->
 <div align="center">
 
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,12,24&text=Ghulam%20Ullah&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20Solutions%20Architect&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
+
+<!-- Animated Typing Line -->
 <a href="https://github.com/ghulamullahanees">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&height=50&lines=ASP.NET+Core+%7C+.NET+8%2F9+%7C+C%23;Angular+17%2B+%7C+TypeScript+%7C+RxJS;MS+SQL+Server+%7C+High-Throughput+Systems;Zero+Deadlocks.+Zero+Downtime.+Sub-Second+Latency." alt="Typing animation" />
 </a>
 
 <br/>
 
 <!-- Status & Experience Badges -->
 <p align="center">
-  <a href="https://github.com/ghulamullahanees"><img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/ghulamullahanees?tab=followers"><img src="https://img.shields.io/github/followers/ghulamullahanees?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers" /></a>
-  <a href="https://www.linkedin.com/in/ghulamullahanees"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" /></a>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-8b5cf6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://github.com/ghulamullahanees"><img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=Profile%20Views&color=0ea5e9&style=for-the-badge&labelColor=0f172a" alt="Profile views" /></a>
+  <a href="https://github.com/ghulamullahanees?tab=followers"><img src="https://img.shields.io/github/followers/ghulamullahanees?label=Followers&style=for-the-badge&color=2563eb&logo=github&labelColor=0f172a" alt="Followers" /></a>
+  <a href="https://www.linkedin.com/in/ghulamullahanees"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f172a" alt="Open to work" /></a>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-8b5cf6?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0f172a" alt="Experience" />
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a" alt="Location" />
 </p>
 
 <!-- Quick Navigation Bar -->
 <p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About%20Me-0f172a?style=flat-square&logo=aboutdotme&logoColor=38bdf8" alt="About" /></a> &bull;
-  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=flat-square&logo=briefcase&logoColor=38bdf8" alt="Experience" /></a> &bull;
-  <a href="#architecture"><img src="https://img.shields.io/badge/Architecture-0f172a?style=flat-square&logo=blueprint&logoColor=38bdf8" alt="Architecture" /></a> &bull;
-  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=flat-square&logo=stackshare&logoColor=38bdf8" alt="Tech stack" /></a> &bull;
-  <a href="#enterprise"><img src="https://img.shields.io/badge/Enterprise%20Work-0f172a?style=flat-square&logo=databricks&logoColor=38bdf8" alt="Enterprise work" /></a> &bull;
-  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0f172a?style=flat-square&logo=googleanalytics&logoColor=38bdf8" alt="Analytics" /></a> &bull;
-  <a href="#deliverables"><img src="https://img.shields.io/badge/Deliverables-0f172a?style=flat-square&logo=sparkles&logoColor=38bdf8" alt="Deliverables" /></a> &bull;
-  <a href="#connect"><img src="https://img.shields.io/badge/Connect-0f172a?style=flat-square&logo=maildotru&logoColor=38bdf8" alt="Contact" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/👤_About-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="About" /></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/💼_Experience-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Experience" /></a>
+  <a href="#architecture"><img src="https://img.shields.io/badge/🏛️_Architecture-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Architecture" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/🛠️_Tech_Stack-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Tech stack" /></a>
+  <br/>
+  <a href="#enterprise"><img src="https://img.shields.io/badge/🏢_Enterprise-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Enterprise work" /></a>
+  <a href="#analytics"><img src="https://img.shields.io/badge/📊_Analytics-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Analytics" /></a>
+  <a href="#deliverables"><img src="https://img.shields.io/badge/✨_Deliverables-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Deliverables" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/🤝_Connect-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Contact" /></a>
 </p>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <!-- ════════════════════════════════════════ ABOUT ════════════════════════════════════════ -->
 <h2 id="about">
