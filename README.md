@@ -2,37 +2,30 @@
 <div align="center">
 
 <a href="https://github.com/ghulamullahanees">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=220&section=header&text=Ghulam%20Ullah&fontSize=48&fontAlignY=36&desc=Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20Architect&descAlignY=62&descSize=18&theme=tokyonight" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,24,35,42&height=190&section=header&text=Ghulam%20Ullah&fontSize=40&fontAlignY=42&desc=Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20Architect&descAlignY=66&descSize=16&theme=tokyonight" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
 </a>
 
 <br/>
 
-<!-- Real-time Status Badges -->
+<!-- Real-time Status Badges (Sleek Compact Single-Line Row) -->
 <p align="center">
-  <a href="https://github.com/ghulamullahanees"><img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views" /></a>
-  <a href="https://github.com/ghulamullahanees?tab=followers"><img src="https://img.shields.io/github/followers/ghulamullahanees?label=Followers&style=for-the-badge&color=2563eb&logo=github&logoColor=white" alt="Followers" /></a>
-  <a href="https://www.linkedin.com/in/ghulamullahanees"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-16a34a?style=for-the-badge&logo=target&logoColor=white" alt="Open to work" /></a>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7c3aed?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-dc2626?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://github.com/ghulamullahanees"><img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/ghulamullahanees?tab=followers"><img src="https://img.shields.io/github/followers/ghulamullahanees?label=Followers&style=flat-square&color=2563eb&logo=github&logoColor=white" alt="Followers" /></a>
+  <a href="https://www.linkedin.com/in/ghulamullahanees"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-16a34a?style=flat-square&logo=target&logoColor=white" alt="Open to work" /></a>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7c3aed?style=flat-square&logo=clockify&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-dc2626?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<!-- 🏆 3D GitHub Achievement Trophies Wall -->
+<!-- Sleek Minimalist Single-Line Navigation -->
 <p align="center">
-  <a href="https://github.com/ghulamullahanees">
-    <img src="https://github-profile-trophy.vercel.app/?username=ghulamullahanees&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="3D GitHub Trophies" />
-  </a>
-</p>
-
-<!-- Sleek Professional Navigation Pill Bar -->
-<p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logo=aboutdotme&logoColor=38bdf8" alt="About" /></a>
-  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge&logo=briefcase&logoColor=38bdf8" alt="Experience" /></a>
-  <a href="#architecture"><img src="https://img.shields.io/badge/Architecture-0f172a?style=for-the-badge&logo=blueprint&logoColor=38bdf8" alt="Architecture" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=for-the-badge&logo=stackshare&logoColor=38bdf8" alt="Tech stack" /></a>
-  <a href="#enterprise"><img src="https://img.shields.io/badge/Enterprise%20Work-0f172a?style=for-the-badge&logo=databricks&logoColor=38bdf8" alt="Enterprise work" /></a>
-  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=38bdf8" alt="Analytics" /></a>
-  <a href="#deliverables"><img src="https://img.shields.io/badge/Deliverables-0f172a?style=for-the-badge&logo=sparkles&logoColor=38bdf8" alt="Deliverables" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Connect-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Contact" /></a>
+  <a href="#about"><b>👨‍💻 About Me</b></a> &nbsp;&bull;&nbsp;
+  <a href="#experience"><b>💼 Experience</b></a> &nbsp;&bull;&nbsp;
+  <a href="#architecture"><b>🏛️ Architecture</b></a> &nbsp;&bull;&nbsp;
+  <a href="#stack"><b>🛠️ Tech Stack</b></a> &nbsp;&bull;&nbsp;
+  <a href="#enterprise"><b>📦 Enterprise Work</b></a> &nbsp;&bull;&nbsp;
+  <a href="#analytics"><b>📊 Analytics</b></a> &nbsp;&bull;&nbsp;
+  <a href="#deliverables"><b>✨ Deliverables</b></a> &nbsp;&bull;&nbsp;
+  <a href="#connect"><b>📬 Connect</b></a>
 </p>
 
 </div>
@@ -320,15 +313,6 @@ public sealed record EngineerProfile : SoftwareEngineer
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- Real-Time Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
-</picture>
 
 </div>
 
