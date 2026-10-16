@@ -1,40 +1,47 @@
 <!-- ════════════════════════════════════════ HERO BANNER ════════════════════════════════════════ -->
 <div align="center">
 
+<!-- Animated waving header (fade-in text). To use your own banner instead, replace this <img> with:
+     <img src="./assets/hero-banner.svg" width="100%" alt="Ghulam Ullah" /> -->
 <a href="https://github.com/ghulamullahanees">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,24,35,42&height=190&section=header&text=Ghulam%20Ullah&fontSize=40&fontAlignY=42&desc=Lead%20Full-Stack%20.NET%20Engineer%20%7C%20Enterprise%20Architect&descAlignY=66&descSize=16&theme=tokyonight" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=260&section=header&text=Ghulam%20Ullah&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20Full-Stack%20.NET%20Engineer%20%26%20Enterprise%20Architect&descSize=20&descAlignY=58" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
 </a>
 
-<br/>
+<!-- Animated typing line -->
+<a href="https://github.com/ghulamullahanees">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Lead+Full-Stack+.NET+Engineer;Enterprise+Solutions+Architect;ASP.NET+Core+%C2%B7+Angular+%C2%B7+SQL+Server;Zero+Deadlocks.+Zero+Store+Downtime.+Sub-Second+Latency." alt="Typing animation" />
+</a>
 
-<!-- Real-time Status Badges (Sleek Compact Single-Line Row) -->
+<br/><br/>
+
+<!-- Status & Experience Badges -->
 <p align="center">
-  <a href="https://github.com/ghulamullahanees"><img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile views" /></a>
-  <a href="https://github.com/ghulamullahanees?tab=followers"><img src="https://img.shields.io/github/followers/ghulamullahanees?label=Followers&style=flat-square&color=2563eb&logo=github&logoColor=white" alt="Followers" /></a>
-  <a href="https://www.linkedin.com/in/ghulamullahanees"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-16a34a?style=flat-square&logo=target&logoColor=white" alt="Open to work" /></a>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7c3aed?style=flat-square&logo=clockify&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-dc2626?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://github.com/ghulamullahanees"><img src="https://komarev.com/ghpvc/?username=ghulamullahanees&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/ghulamullahanees?tab=followers"><img src="https://img.shields.io/github/followers/ghulamullahanees?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="Followers" /></a>
+  <a href="https://www.linkedin.com/in/ghulamullahanees"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" /></a>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-8b5cf6?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<!-- Sleek Minimalist Single-Line Navigation -->
+<!-- Quick Navigation Bar -->
 <p align="center">
-  <a href="#about"><b>👨‍💻 About Me</b></a> &nbsp;&bull;&nbsp;
-  <a href="#experience"><b>💼 Experience</b></a> &nbsp;&bull;&nbsp;
-  <a href="#architecture"><b>🏛️ Architecture</b></a> &nbsp;&bull;&nbsp;
-  <a href="#stack"><b>🛠️ Tech Stack</b></a> &nbsp;&bull;&nbsp;
-  <a href="#enterprise"><b>📦 Enterprise Work</b></a> &nbsp;&bull;&nbsp;
-  <a href="#analytics"><b>📊 Analytics</b></a> &nbsp;&bull;&nbsp;
-  <a href="#deliverables"><b>✨ Deliverables</b></a> &nbsp;&bull;&nbsp;
-  <a href="#connect"><b>📬 Connect</b></a>
+  <a href="#about"><img src="https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logo=aboutdotme&logoColor=38bdf8" alt="About" /></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge&logo=briefcase&logoColor=38bdf8" alt="Experience" /></a>
+  <a href="#architecture"><img src="https://img.shields.io/badge/Architecture-0f172a?style=for-the-badge&logo=blueprint&logoColor=38bdf8" alt="Architecture" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=for-the-badge&logo=stackshare&logoColor=38bdf8" alt="Tech stack" /></a>
+  <a href="#enterprise"><img src="https://img.shields.io/badge/Enterprise%20Work-0f172a?style=for-the-badge&logo=databricks&logoColor=38bdf8" alt="Enterprise work" /></a>
+  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=38bdf8" alt="Analytics" /></a>
+  <a href="#deliverables"><img src="https://img.shields.io/badge/Deliverables-0f172a?style=for-the-badge&logo=sparkles&logoColor=38bdf8" alt="Deliverables" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-0f172a?style=for-the-badge&logo=maildotru&logoColor=38bdf8" alt="Contact" /></a>
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<!-- ════════════════════════════════════════ ABOUT ME ════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════ ABOUT ════════════════════════════════════════ -->
 <h2 id="about">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="wave" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="wave" />
   About Me
 </h2>
 
@@ -54,12 +61,19 @@ Hello! I'm **Ghulam Ullah**, a dedicated **Lead Full-Stack Software Engineer &am
 </td>
 <td width="40%" align="center" valign="middle">
 
-<!-- 3D Developer Isometric Animation -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="3D Developer coding animation" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding animation" />
 
 </td>
 </tr>
 </table>
+
+<!-- At-a-glance numbers (all taken from the text above) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/2%2B-Years%20Enterprise%20Experience-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="2+ years" />
+  <img src="https://img.shields.io/badge/500k%2B-Daily%20Transactions-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="500k+ daily transactions" />
+  <img src="https://img.shields.io/badge/100k%2B-SKUs%20Handled-22c55e?style=for-the-badge&labelColor=0f172a" alt="100k+ SKUs" />
+  <img src="https://img.shields.io/badge/4-Enterprise%20Deployments-f59e0b?style=for-the-badge&labelColor=0f172a" alt="4 enterprise deployments" />
+</p>
 
 <details>
 <summary><b>👨‍💻 &nbsp;View Developer Profile (C# Object Definition)</b></summary>
@@ -97,31 +111,27 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 <!-- ════════════════════════════════════════ ARCHITECTURAL PILLARS ════════════════════════════════════════ -->
 <h2 id="architecture">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="32" alt="gear" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" alt="gear" />
   Core Engineering Pillars
 </h2>
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Classical%20Building.png" width="46" alt="building" /><br/>
-<b>Clean Architecture</b>
-<p align="center"><sub>Strict separation of concerns across Domain, Application, Infrastructure, and Presentation layers for maintainable, testable enterprise systems.</sub></p>
+<td width="25%" valign="top">
+<h4>🏛️ Clean Architecture</h4>
+<p>Strict separation of concerns across Domain, Application, Infrastructure, and Presentation layers for maintainable, testable enterprise systems.</p>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="46" alt="voltage" /><br/>
-<b>High-Throughput SQL</b>
-<p align="center"><sub>Execution plan analysis, index optimization, deadlock elimination, and finely tuned stored procedures handling 500k+ daily transactions in MS SQL Server.</sub></p>
+<td width="25%" valign="top">
+<h4>⚡ High-Throughput SQL</h4>
+<p>Execution plan analysis, index optimization, deadlock elimination, and finely tuned stored procedures handling 500k+ daily transactions in MS SQL Server.</p>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Counterclockwise%20Arrows%20Button.png" width="46" alt="sync" /><br/>
-<b>Offline Sync Engines</b>
-<p align="center"><sub>Resilient offline-first distributed synchronization protocols keeping retail stores 100% operational during network dropouts with seamless reconciliation.</sub></p>
+<td width="25%" valign="top">
+<h4>🔄 Offline Sync Engines</h4>
+<p>Resilient offline-first distributed synchronization protocols keeping retail stores 100% operational during network dropouts with seamless reconciliation.</p>
 </td>
-<td width="25%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="46" alt="shield" /><br/>
-<b>RBAC &amp; Audit</b>
-<p align="center"><sub>Granular Role-Based Access Control, JWT security tokens, immutable audit trails, and strict double-entry accounting ledger validation pipelines.</sub></p>
+<td width="25%" valign="top">
+<h4>🛡️ RBAC &amp; Financial Audit</h4>
+<p>Granular Role-Based Access Control, JWT security tokens, immutable audit trails, and strict double-entry accounting ledger validation pipelines.</p>
 </td>
 </tr>
 </table>
@@ -130,14 +140,14 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 <!-- ════════════════════════════════════════ WORK EXPERIENCE ════════════════════════════════════════ -->
 <h2 id="experience">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" alt="briefcase" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" alt="briefcase" />
   Work Experience
 </h2>
 
 <table>
 <tr>
 <td width="150" align="center" valign="top">
-<img src="https://img.shields.io/badge/Oct%202024-Present-0ea5e9?style=flat-square" alt="Oct 2024 – Present" /><br/>
+<img src="https://img.shields.io/badge/Oct%202024-Present-0ea5e9?style=for-the-badge" alt="Oct 2024 – Present" /><br/>
 <sub>🟢 <b>Current Role</b></sub>
 </td>
 <td valign="top">
@@ -153,7 +163,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 </tr>
 <tr>
 <td width="150" align="center" valign="top">
-<img src="https://img.shields.io/badge/2024-Present-8b5cf6?style=flat-square" alt="2024 – Present" /><br/>
+<img src="https://img.shields.io/badge/2024-Present-8b5cf6?style=for-the-badge" alt="2024 – Present" /><br/>
 <sub>🟣 <b>Consulting</b></sub>
 </td>
 <td valign="top">
@@ -172,7 +182,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 <!-- ════════════════════════════════════════ TECH STACK ════════════════════════════════════════ -->
 <h2 id="stack">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" alt="tools" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" alt="tools" />
   Tech Stack &amp; Skills
 </h2>
 
@@ -225,7 +235,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 <!-- ════════════════════════════════════════ ENTERPRISE WORK ════════════════════════════════════════ -->
 <h2 id="enterprise">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="32" alt="building" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="30" alt="building" />
   Commercial &amp; Enterprise Projects
 </h2>
 
@@ -242,7 +252,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Sub-second barcode scan processing and automated audit reconciliation routines.</li>
       </ul>
       <p><code>ASP.NET Core</code> <code>C#</code> <code>SQL Server</code> <code>Angular</code></p>
-      <a href="https://dwatson.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-dwatson.pk-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit D.Watson" /></a>
+      <a href="https://dwatson.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-dwatson.pk-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit D.Watson" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>👟 <a href="https://www.kingshoes.com.pk/" target="_blank">King Shoes Pakistan</a></h3>
@@ -253,7 +263,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Real-time stock synchronization between physical brick-and-mortar retail outlets and online e-commerce channels.</li>
       </ul>
       <p><code>ASP.NET MVC</code> <code>C#</code> <code>SQL Server</code> <code>Entity Framework</code></p>
-      <a href="https://www.kingshoes.com.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-kingshoes.com.pk-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit King Shoes" /></a>
+      <a href="https://www.kingshoes.com.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-kingshoes.com.pk-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit King Shoes" /></a>
     </td>
   </tr>
   <tr>
@@ -266,7 +276,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Commercial tax invoicing and automated delivery challans with digital gate passes and audit trails.</li>
       </ul>
       <p><code>.NET Framework</code> <code>Complex T-SQL</code> <code>Manufacturing ERP</code></p>
-      <a href="https://www.margallapackagesindustry.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-margallapackages.com-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Margalla Packages" /></a>
+      <a href="https://www.margallapackagesindustry.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-margallapackages.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Margalla Packages" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🍲 <a href="https://butt-karahi.com/" target="_blank">Butt Karahi Restaurant POS &amp; KDS</a></h3>
@@ -277,7 +287,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Distributed offline-to-online sync engine allowing continuous order punching during internet disconnects with zero order loss.</li>
       </ul>
       <p><code>ASP.NET MVC</code> <code>KDS Engine</code> <code>SQL Server</code> <code>ESC/POS</code></p>
-      <a href="https://butt-karahi.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-butt--karahi.com-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Butt Karahi" /></a>
+      <a href="https://butt-karahi.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-butt--karahi.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Butt Karahi" /></a>
     </td>
   </tr>
 </table>
@@ -286,7 +296,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 <!-- ════════════════════════════════════════ GITHUB ANALYTICS ════════════════════════════════════════ -->
 <h2 id="analytics">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32" alt="chart" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" alt="chart" />
   GitHub Analytics &amp; Activity
 </h2>
 
@@ -296,23 +306,46 @@ public sealed record EngineerProfile : SoftwareEngineer
 <tr>
 <td width="50%" align="center" valign="middle">
 <a href="https://github.com/ghulamullahanees">
-  <img src="https://streak-stats.demolab.com?user=ghulamullahanees&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&border_radius=14" width="100%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ghulamullahanees&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&border_radius=18" width="100%" alt="GitHub streak" />
 </a>
 </td>
 <td width="50%" align="center" valign="middle">
 <a href="https://github.com/ghulamullahanees">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamullahanees&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_radius=14" width="100%" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamullahanees&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" width="100%" alt="Most used languages" />
 </a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 <a href="https://github.com/ghulamullahanees">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghulamullahanees&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a&border_radius=14" width="100%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamullahanees&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a" width="100%" alt="GitHub stats" />
 </a>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- Trophies -->
+<a href="https://github.com/ghulamullahanees">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghulamullahanees&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+</a>
+
+<br/><br/>
+
+<!-- Contribution activity graph -->
+<a href="https://github.com/ghulamullahanees">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamullahanees&theme=tokyo-night&hide_border=true&area=true&bg_color=0F172A&color=38BDF8&line=8B5CF6&point=F59E0B" width="100%" alt="Contribution activity graph" />
+</a>
+
+<br/>
+
+<!-- Real-Time Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ghulamullahanees/ghulamullahanees/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+</picture>
 
 </div>
 
@@ -320,24 +353,24 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 <!-- ════════════════════════════════════════ VALUE PROPOSITION ════════════════════════════════════════ -->
 <h2 id="deliverables">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="32" alt="idea" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" alt="idea" />
   What I Deliver to Teams &amp; Clients
 </h2>
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="48" alt="gear" /><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="46" alt="gear" /><br/>
 <b>Scalable Architecture</b><br/>
 <sub>Clean, modular .NET backends engineered to scale gracefully as business transaction demands increase.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="48" alt="speed" /><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="46" alt="speed" /><br/>
 <b>Performance First</b><br/>
 <sub>Tuned SQL Server stored procedures, optimal indexes, zero deadlocks, and sub-second API response times.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="48" alt="sparkles" /><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="46" alt="sparkles" /><br/>
 <b>Polished UX</b><br/>
 <sub>Reactive Angular dashboards with intuitive workflows that users learn in minutes and love to navigate.</sub>
 </td>
@@ -346,9 +379,9 @@ public sealed record EngineerProfile : SoftwareEngineer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<!-- ════════════════════════════════════════ CONNECT & FOOTER ════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════ CONNECT ════════════════════════════════════════ -->
 <h2 id="connect">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" alt="handshake" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" alt="handshake" />
   Let's Connect &amp; Collaborate
 </h2>
 
@@ -357,7 +390,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 <p><i>Always open to discussing new opportunities, enterprise consulting, and innovative software engineering projects.</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghulamullahanees" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ghulam%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ghulamullahanees"><img src="https://img.shields.io/badge/LinkedIn-Ghulam%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ghulamullah3621@gmail.com"><img src="https://img.shields.io/badge/Email-ghulamullah3621%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ghulamullahanees"><img src="https://img.shields.io/badge/GitHub-@ghulamullahanees-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/ghulamullahanees"><img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-ea580c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
@@ -369,11 +402,8 @@ public sealed record EngineerProfile : SoftwareEngineer
 <i>"Software engineering is not just about writing code &mdash; it's about engineering resilient solutions that empower organizations and people."</i>
 </blockquote>
 
-<br/>
-
-<!-- Modern Dynamic Cloud Waving Footer -->
-<a href="https://github.com/ghulamullahanees">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,35&height=120&section=footer" width="100%" alt="Footer Wave" />
-</a>
+<!-- Animated footer wave. To use your own footer instead, replace with:
+     <img src="./assets/footer-wave.svg" width="100%" alt="Footer wave banner" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=140&section=footer&animation=twinkling" width="100%" alt="Footer wave banner" />
 
 </div>
