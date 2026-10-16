@@ -1,18 +1,11 @@
 <!-- ════════════════════════════════════════ HERO BANNER ════════════════════════════════════════ -->
 <div align="center">
 
-<!-- Animated waving header (fade-in text). To use your own banner instead, replace this <img> with:
-     <img src="./assets/hero-banner.svg" width="100%" alt="Ghulam Ullah" /> -->
 <a href="https://github.com/ghulamullahanees">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=260&section=header&text=Ghulam%20Ullah&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20Full-Stack%20.NET%20Engineer%20%26%20Enterprise%20Architect&descSize=20&descAlignY=58" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
+  <img src="./assets/hero-banner.svg" width="100%" alt="Ghulam Ullah — Lead Full-Stack .NET Engineer & Enterprise Architect" />
 </a>
 
-<!-- Animated typing line -->
-<a href="https://github.com/ghulamullahanees">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Lead+Full-Stack+.NET+Engineer;Enterprise+Solutions+Architect;ASP.NET+Core+%C2%B7+Angular+%C2%B7+SQL+Server;Zero+Deadlocks.+Zero+Store+Downtime.+Sub-Second+Latency." alt="Typing animation" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- Status & Experience Badges -->
 <p align="center">
@@ -25,14 +18,14 @@
 
 <!-- Quick Navigation Bar -->
 <p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logo=aboutdotme&logoColor=38bdf8" alt="About" /></a>
-  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=for-the-badge&logo=briefcase&logoColor=38bdf8" alt="Experience" /></a>
-  <a href="#architecture"><img src="https://img.shields.io/badge/Architecture-0f172a?style=for-the-badge&logo=blueprint&logoColor=38bdf8" alt="Architecture" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=for-the-badge&logo=stackshare&logoColor=38bdf8" alt="Tech stack" /></a>
-  <a href="#enterprise"><img src="https://img.shields.io/badge/Enterprise%20Work-0f172a?style=for-the-badge&logo=databricks&logoColor=38bdf8" alt="Enterprise work" /></a>
-  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=38bdf8" alt="Analytics" /></a>
-  <a href="#deliverables"><img src="https://img.shields.io/badge/Deliverables-0f172a?style=for-the-badge&logo=sparkles&logoColor=38bdf8" alt="Deliverables" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Connect-0f172a?style=for-the-badge&logo=maildotru&logoColor=38bdf8" alt="Contact" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/About%20Me-0f172a?style=flat-square&logo=aboutdotme&logoColor=38bdf8" alt="About" /></a> &bull;
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0f172a?style=flat-square&logo=briefcase&logoColor=38bdf8" alt="Experience" /></a> &bull;
+  <a href="#architecture"><img src="https://img.shields.io/badge/Architecture-0f172a?style=flat-square&logo=blueprint&logoColor=38bdf8" alt="Architecture" /></a> &bull;
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0f172a?style=flat-square&logo=stackshare&logoColor=38bdf8" alt="Tech stack" /></a> &bull;
+  <a href="#enterprise"><img src="https://img.shields.io/badge/Enterprise%20Work-0f172a?style=flat-square&logo=databricks&logoColor=38bdf8" alt="Enterprise work" /></a> &bull;
+  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0f172a?style=flat-square&logo=googleanalytics&logoColor=38bdf8" alt="Analytics" /></a> &bull;
+  <a href="#deliverables"><img src="https://img.shields.io/badge/Deliverables-0f172a?style=flat-square&logo=sparkles&logoColor=38bdf8" alt="Deliverables" /></a> &bull;
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-0f172a?style=flat-square&logo=maildotru&logoColor=38bdf8" alt="Contact" /></a>
 </p>
 
 </div>
@@ -66,14 +59,6 @@ Hello! I'm **Ghulam Ullah**, a dedicated **Lead Full-Stack Software Engineer &am
 </td>
 </tr>
 </table>
-
-<!-- At-a-glance numbers (all taken from the text above) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/2%2B-Years%20Enterprise%20Experience-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="2+ years" />
-  <img src="https://img.shields.io/badge/500k%2B-Daily%20Transactions-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="500k+ daily transactions" />
-  <img src="https://img.shields.io/badge/100k%2B-SKUs%20Handled-22c55e?style=for-the-badge&labelColor=0f172a" alt="100k+ SKUs" />
-  <img src="https://img.shields.io/badge/4-Enterprise%20Deployments-f59e0b?style=for-the-badge&labelColor=0f172a" alt="4 enterprise deployments" />
-</p>
 
 <details>
 <summary><b>👨‍💻 &nbsp;View Developer Profile (C# Object Definition)</b></summary>
@@ -147,7 +132,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 <table>
 <tr>
 <td width="150" align="center" valign="top">
-<img src="https://img.shields.io/badge/Oct%202024-Present-0ea5e9?style=for-the-badge" alt="Oct 2024 – Present" /><br/>
+<img src="https://img.shields.io/badge/Oct%202024-Present-0ea5e9?style=flat-square" alt="Oct 2024 – Present" /><br/>
 <sub>🟢 <b>Current Role</b></sub>
 </td>
 <td valign="top">
@@ -163,7 +148,7 @@ public sealed record EngineerProfile : SoftwareEngineer
 </tr>
 <tr>
 <td width="150" align="center" valign="top">
-<img src="https://img.shields.io/badge/2024-Present-8b5cf6?style=for-the-badge" alt="2024 – Present" /><br/>
+<img src="https://img.shields.io/badge/2024-Present-8b5cf6?style=flat-square" alt="2024 – Present" /><br/>
 <sub>🟣 <b>Consulting</b></sub>
 </td>
 <td valign="top">
@@ -252,7 +237,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Sub-second barcode scan processing and automated audit reconciliation routines.</li>
       </ul>
       <p><code>ASP.NET Core</code> <code>C#</code> <code>SQL Server</code> <code>Angular</code></p>
-      <a href="https://dwatson.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-dwatson.pk-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit D.Watson" /></a>
+      <a href="https://dwatson.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-dwatson.pk-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit D.Watson" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>👟 <a href="https://www.kingshoes.com.pk/" target="_blank">King Shoes Pakistan</a></h3>
@@ -263,7 +248,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Real-time stock synchronization between physical brick-and-mortar retail outlets and online e-commerce channels.</li>
       </ul>
       <p><code>ASP.NET MVC</code> <code>C#</code> <code>SQL Server</code> <code>Entity Framework</code></p>
-      <a href="https://www.kingshoes.com.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-kingshoes.com.pk-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit King Shoes" /></a>
+      <a href="https://www.kingshoes.com.pk/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-kingshoes.com.pk-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit King Shoes" /></a>
     </td>
   </tr>
   <tr>
@@ -276,7 +261,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Commercial tax invoicing and automated delivery challans with digital gate passes and audit trails.</li>
       </ul>
       <p><code>.NET Framework</code> <code>Complex T-SQL</code> <code>Manufacturing ERP</code></p>
-      <a href="https://www.margallapackagesindustry.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-margallapackages.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Margalla Packages" /></a>
+      <a href="https://www.margallapackagesindustry.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-margallapackages.com-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Margalla Packages" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🍲 <a href="https://butt-karahi.com/" target="_blank">Butt Karahi Restaurant POS &amp; KDS</a></h3>
@@ -287,7 +272,7 @@ public sealed record EngineerProfile : SoftwareEngineer
         <li>Distributed offline-to-online sync engine allowing continuous order punching during internet disconnects with zero order loss.</li>
       </ul>
       <p><code>ASP.NET MVC</code> <code>KDS Engine</code> <code>SQL Server</code> <code>ESC/POS</code></p>
-      <a href="https://butt-karahi.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-butt--karahi.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Butt Karahi" /></a>
+      <a href="https://butt-karahi.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Live-butt--karahi.com-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Butt Karahi" /></a>
     </td>
   </tr>
 </table>
@@ -323,20 +308,6 @@ public sealed record EngineerProfile : SoftwareEngineer
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- Trophies -->
-<a href="https://github.com/ghulamullahanees">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghulamullahanees&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
-</a>
-
-<br/><br/>
-
-<!-- Contribution activity graph -->
-<a href="https://github.com/ghulamullahanees">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamullahanees&theme=tokyo-night&hide_border=true&area=true&bg_color=0F172A&color=38BDF8&line=8B5CF6&point=F59E0B" width="100%" alt="Contribution activity graph" />
-</a>
 
 <br/>
 
@@ -402,8 +373,9 @@ public sealed record EngineerProfile : SoftwareEngineer
 <i>"Software engineering is not just about writing code &mdash; it's about engineering resilient solutions that empower organizations and people."</i>
 </blockquote>
 
-<!-- Animated footer wave. To use your own footer instead, replace with:
-     <img src="./assets/footer-wave.svg" width="100%" alt="Footer wave banner" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=140&section=footer&animation=twinkling" width="100%" alt="Footer wave banner" />
+<br/>
+
+<!-- Self-Hosted Footer Wave Banner -->
+<img src="./assets/footer-wave.svg" width="100%" alt="Footer wave banner" />
 
 </div>
